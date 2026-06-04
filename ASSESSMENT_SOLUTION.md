@@ -1,6 +1,6 @@
 # Assessment-Lösung: allgeier-maven-restassured
 
-> **ACHTUNG:** Diese Datei ist ausschließlich für Prüfer bestimmt und darf nicht an Kandidaten weitergegeben werden.
+> **ACHTUNG:** Diese Datei ist ausschliesslich für Prüfer bestimmt und darf nicht an Kandidaten weitergegeben werden.
 
 ## Eingebaute Fehler
 
